@@ -1,3 +1,8 @@
+# forked
+
+forked with the intention to make intraframe only files for 50Hz systems
+currently a WORK IN PROGRESS
+
 # testing-video
 
 The project is aimed to create a set of videos usable for testing
